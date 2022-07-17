@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="5" time="151.543">
+<testcase classname="login function" name="Check Login with multiple data" time="15.89">
+<system-out><![CDATA[Given user is on login page.................................................passed
+When user fills the form in login page from given sheetname login and rownumber 1.passed
+And clicks on send Button...................................................passed
+Then login should be successful.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="login function" name="Check Login with multiple data 2" time="54.889">
+<system-out><![CDATA[Given user is on login page.................................................passed
+When user fills the form in login page from given sheetname login and rownumber 2.passed
+And clicks on send Button...................................................passed
+Then login should be successful.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="login function" name="Check Login with multiple data 3" time="33.921">
+<system-out><![CDATA[Given user is on login page.................................................passed
+When user fills the form in login page from given sheetname login and rownumber 3.passed
+And clicks on send Button...................................................passed
+Then login should be successful.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="login function" name="Check Login with multiple data 4" time="12.098">
+<system-out><![CDATA[Given user is on login page.................................................passed
+When user fills the form in login page from given sheetname login and rownumber 4.passed
+And clicks on send Button...................................................passed
+Then login should be successful.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="login function" name="Check Login with multiple data 5" time="34.284">
+<system-out><![CDATA[Given user is on login page.................................................passed
+When user fills the form in login page from given sheetname login and rownumber 5.passed
+And clicks on send Button...................................................passed
+Then login should be successful.............................................passed
+]]></system-out>
+</testcase>
+</testsuite>

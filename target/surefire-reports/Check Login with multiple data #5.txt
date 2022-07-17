@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Check Login with multiple data #5
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 33.577 s - in Check Login with multiple data #5
