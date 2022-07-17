@@ -20,7 +20,7 @@ public class MyStepDef{
 	String xlfile =  "C:\\Users\\graje\\OneDrive\\Desktop\\SIdata.xlsx";
 
 
-
+        //user is on login page`	
 	@Given("^user is on login page$")
 	public void user_is_on_login_page() throws Throwable {
 
@@ -29,6 +29,7 @@ public class MyStepDef{
 
 	}
 
+	// verifying logging mechanism/functionality for multiple login credentials
 	@When("^user fills the form in login page from given sheetname (.+) and rownumber (.+)$")
 	public void user_fills_the_form_in_login_page_from_given_sheetname_and_rownumber(String sheetname, String rownumber) throws Throwable {
 
@@ -47,6 +48,7 @@ public class MyStepDef{
 	}
 
 
+	//Clicking on Send Button
 	@And("clicks on send Button")
 	public void clicks_on_send_button() throws InterruptedException {
 
@@ -56,7 +58,7 @@ public class MyStepDef{
 
 	}
 
-
+        //Login verification
 	@Then("^login should be successful$")
 	public void login_should_be_successful() throws Throwable {
 
